@@ -1,5 +1,5 @@
 # AWS EC2 instance
-You can create EC2 instance in joindevops using this module
+You can create EC2 instance  using this module
 
 ## Inputs
 
